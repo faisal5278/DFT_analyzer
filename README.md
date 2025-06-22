@@ -59,7 +59,7 @@ streamlit run app.py
 ---
 
 ## 📸 Dashboard UI Screenshot
-![Streamlit Dashboard Screenshot](screenshot.png)
+![Streamlit Dashboard Screenshot](screenshot.PNG)
 
 
 ## 🎯 Why this project?
