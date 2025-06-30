@@ -72,5 +72,4 @@ streamlit run app.py
 
 - Automated reporting and dashboarding
 
-- Visualization of key DFT metrics in a single interface
-"# DFT_analyzer" 
+- Visualization of key DFT metrics in a single interface 
